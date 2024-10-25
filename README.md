@@ -115,8 +115,7 @@
 </div>
 
 <br/>
-<br/>
-
+ 
 <div>
 <a href="[https://komarev.com/ghpvc/?username=ovienrait&style=for-the-badge&label=ПРОСМОТРЫ+ПРОФИЛЯ">
   <img align="left" height="30" src="https://komarev.com/ghpvc/?username=ovienrait&style=for-the-badge&label=ПРОСМОТРЫ+ПРОФИЛЯ" />
