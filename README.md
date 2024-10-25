@@ -107,7 +107,7 @@
 ## 📊 Статистика
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=ovienrait&hide=contribs&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&include_all_commits=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=ovienrait&hide=contribs&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&include_all_commits=true" />
+  <img  align="left" height="130" style="margin-right: 10px" style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api?username=ovienrait&hide=contribs&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&include_all_commits=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ovienrait&layout=compact&theme=transparent&hide_title=true&hide=shell,rich+text+format">
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovienrait&layout=compact&theme=transparent&hide_title=true&hide=shell,rich+text+format" />
@@ -116,6 +116,6 @@
 
 <div>
 <a href="[https://komarev.com/ghpvc/?username=ovienrait&style=for-the-badge&label=ПРОСМОТРЫ+ПРОФИЛЯ">
-  <img align="left" height="30" style="margin-top: 10px" src="https://komarev.com/ghpvc/?username=ovienrait&style=for-the-badge&label=ПРОСМОТРЫ+ПРОФИЛЯ" />
+  <img align="left" height="30" src="https://komarev.com/ghpvc/?username=ovienrait&style=for-the-badge&label=ПРОСМОТРЫ+ПРОФИЛЯ" />
 </a>
 </div>
