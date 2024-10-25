@@ -114,4 +114,6 @@
 </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=ovienrait&style=for-the-badge&label=ПРОСМОТРЫ+ПРОФИЛЯ" style="margin-top: 10px;">
+###
+
+<img src="https://komarev.com/ghpvc/?username=ovienrait&style=for-the-badge&label=ПРОСМОТРЫ+ПРОФИЛЯ">
