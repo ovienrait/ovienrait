@@ -112,7 +112,9 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ovienrait&layout=compact&theme=transparent&hide_title=true&hide=shell,rich+text+format">
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovienrait&layout=compact&theme=transparent&hide_title=true&hide=shell,rich+text+format" />
 </a>
+</div>
 <br/><br/>
+<div>
 <a href="[https://komarev.com/ghpvc/?username=ovienrait&style=for-the-badge&label=ПРОСМОТРЫ+ПРОФИЛЯ">
   <img align="left" height="30" src="https://komarev.com/ghpvc/?username=ovienrait&style=for-the-badge&label=ПРОСМОТРЫ+ПРОФИЛЯ" />
 </a>
