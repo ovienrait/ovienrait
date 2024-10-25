@@ -113,5 +113,5 @@
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovienrait&layout=compact&theme=transparent&hide_title=true&hide=shell,rich+text+format" />
 </a>
 <a href="https://komarev.com/ghpvc/?username=ovienrait&style=for-the-badge&label=ПРОСМОТРЫ+ПРОФИЛЯ">
-  <img align="left" height="25" src="https://komarev.com/ghpvc/?username=ovienrait&style=for-the-badge&label=ПРОСМОТРЫ+ПРОФИЛЯ" />
+  <img align="left" height="20" src="https://komarev.com/ghpvc/?username=ovienrait&style=for-the-badge&label=ПРОСМОТРЫ+ПРОФИЛЯ" />
 </div>
