@@ -5,7 +5,7 @@
 Я начинающий Python разработчик.  
 На моем GitHub можно найти проекты, в которых я реализую свои идеи и обучаюсь новым технологиям.
 
-## 💌 Контакты
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="32" height="32"> Контакты
 * [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:nirendsound@gmail.com)
 * [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/ovienrait)
 
