@@ -1,5 +1,7 @@
-Привет! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />
-Меня зовут Артем
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=30&duration=2000&pause=1000&color=1D75D4&vCenter=true&width=435&height=35&lines=Hello%2C+world!)](https://git.io/typing-svg)
+
+Привет! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" /> 
+Меня зовут Артем 
 =======================================================================================================================================
 
 Я начинающий Python разработчик.  
