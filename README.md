@@ -109,7 +109,7 @@
 ## 📊 Статистика
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=ovienrait&hide=contribs&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&include_all_commits=true">
-  <img  align="left" height="130" src="https://github-readme-stats.vercel.app/api?username=ovienrait&hide=contribs&show_icons=true&include_all_commits=true&theme=transparent&hide_title=true&hide_rank=true" />
+  <img  align="left" height="130" src="https://github-readme-stats.vercel.app/api?username=ovienrait&hide=contribs&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&include_all_commits=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ovienrait&layout=compact&theme=transparent&hide_title=true&hide=shell,rich+text+format,procfile">
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovienrait&layout=compact&theme=transparent&hide_title=true&hide=shell,rich+text+format,procfile" />
